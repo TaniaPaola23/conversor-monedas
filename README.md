@@ -1,4 +1,4 @@
-# 💰 Conversor de Monedas - Challenge Java
+# Conversor de Monedas - Challenge Java
 
 ![Java](https://img.shields.io/badge/Java-21-orange) ![Maven](https://img.shields.io/badge/Maven-Project-blue) ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green)
 
